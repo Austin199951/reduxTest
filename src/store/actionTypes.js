@@ -1,0 +1,9 @@
+export const DEL_DATA = 'delData';
+export const ADD_DATA = 'addData';
+export const GET_LIST = 'getList';
+export const CHANGE_INPUT_VAL = 'changeInputVal'
+export const CHOICE = 'choice';
+export const CHOICE_ALL = 'choiceAll';
+export const CHOICE_NO = 'choiceNo';
+export const CHANGE_INPUT = 'changeInput';
+export const ADD_VAL = 'addVal';
